@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Live long and prosper! &#128406; 👽
 </h1>
@@ -8,14 +7,17 @@
 </div>
 
 <div id="badges" align="center">
+  <h2>
+    Get contact:
+  </h2>&nbsp;
   <a href="https://www.linkedin.com/in/aleksey-shaydullin-b9101aa9/">
-    <img alt="Aleksey Shaydullin | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img alt="Aleksey Shaydullin | LinkedIn" width="44px" src="./images/icon-linkedin.png" />
   </a>&nbsp;
   <a href="https://t.me/AlekseyShaydullin">
-    <img alt="Aleksey Shaydullin | Telegram" width="44px" src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" />
+    <img alt="Aleksey Shaydullin | Telegram" width="44px" src="./images/icon-telegram.png" />
     </a>&nbsp;
     <a href="https://vk.com/alekseyshaydullin">
-        <img alt=Aleksey Shaydullin | VK" width="44px" src="./images/vk.png"" />
+        <img alt="Aleksey Shaydullin | VK" width="44px" src="./images/icon-vk.png" />
     </a>
 </div>
 
