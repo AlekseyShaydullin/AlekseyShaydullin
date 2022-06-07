@@ -34,12 +34,12 @@
 </br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-  <img src="./images/icon-bem.svg" title="BEM" alt="BEM" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/CSS.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/HTML.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/HTML.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="./images/icon-bem.svg" title="BEM" alt="BEM" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Git.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Sass.svg" title="SASS"**alt="SASS" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Sass.svg" title="SASS"**alt="SASS" width="50" height="50"/>&nbsp;  
 </div>
 </br>
 
