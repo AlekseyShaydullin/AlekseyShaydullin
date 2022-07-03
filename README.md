@@ -39,7 +39,8 @@
   <img src="./images/icon-bem.svg" title="BEM" alt="BEM" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Git.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Sass.svg" title="SASS"**alt="SASS" width="50" height="50"/>&nbsp;  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Sass.svg" title="SASS"**alt="SASS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack"**alt="Webpack" width="50" height="50"/>&nbsp;
 </div>
 </br>
 
@@ -50,8 +51,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Redux.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack"**alt="Webpack" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"**alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"**alt="Python" width="50" height="50"/>&nbsp;
 </div>
