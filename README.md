@@ -63,8 +63,6 @@
 <div align="center">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=AlekseyShaydullin&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlekseyShaydullin&&hide_border=trueshow_icons=true&theme=react"/>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlekseyShaydullin&theme=tokyonight">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyShaydullin&theme=tokyonight">
 </div>
 
 <div align="center">
