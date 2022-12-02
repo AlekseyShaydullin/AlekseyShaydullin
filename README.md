@@ -41,6 +41,9 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Git.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Sass.svg" title="SASS"**alt="SASS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack"**alt="Webpack" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Redux.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs " width="50" height="50"/>&nbsp;
 </div>
 </br>
 
@@ -48,8 +51,6 @@
  
  </br>
 <div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/React-Dark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Redux.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"**alt="Docker" width="50" height="50"/>&nbsp;
@@ -62,6 +63,8 @@
 <div align="center">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=AlekseyShaydullin&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlekseyShaydullin&&hide_border=trueshow_icons=true&theme=react"/>
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlekseyShaydullin&theme=tokyonight">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyShaydullin&theme=tokyonight">
 </div>
 
 <div align="center">
