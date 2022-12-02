@@ -61,12 +61,11 @@
 ### :battery: My Stats :
 
 <div align="center">
-  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=AlekseyShaydullin&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlekseyShaydullin&&hide_border=trueshow_icons=true&theme=react"/>
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlekseyShaydullin&theme=2077"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlekseyShaydullin&theme=2077"/>
 </div>
-
 <div align="center">
-  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=AlekseyShaydullin&hide_border=true&theme=react-dark"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyShaydullin&theme=2077"/>
 </div>
 
 
